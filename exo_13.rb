@@ -1,4 +1,3 @@
-
 emails = Array.new
 
 for i in 0...50
